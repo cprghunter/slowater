@@ -1,0 +1,230 @@
+﻿OBJECTID,Id,PWS_Name,Pop_Served,Connection,PWSID,PWS_Type,Source,Owner,Size,OUA,File_No,APN,Level_,Vul_Code,Status,ShapeSTArea,ShapeSTLength
+1,4,Afuera De Chorro Water Company,75,19,CA4000744,CWS,GW,Private,Very_Small, , , ,pending,,Active,8151859.42578125,13177.0280173797
+2,1,AMWC,28914,10653,CA4010002,CWS,GW,Private,Large, , , ,vulnerable,,Active,1083087789.08984,146900.819218044
+3,4,Babe Ruth's Oak View,50,25,CA4000644,TNCWS,GW,Private,Very_Small, , , ,watch,,Active,846859.155273438,4236.71883943042
+4,4,Baron Canyon Mutual Water Company,25,23,CA4000214,CWS,GW,Private,Very_Small, , , ,watch,,Active,21314833.2578125,22107.6836851645
+5,4,Bassi Ranch Mutual Water Company,85,24,CA4000200,CWS,GW,Private,Very_Small, , , ,watch,,Active,2920572.12695312,13620.4016375825
+6,4,Bear Valley Water Company,45,18,CA4000660,CWS,GW,Private,Very_Small, , , ,watch,,Active,5268651.578125,11367.8749852377
+7,4,Bella Vista Mobile Lodge,200,84,CA4000512,CWS,GW,Private,Very_Small, , , ,vulnerable,,Active,482453.890625,2852.77241975828
+8,4,Black Lake Canyon Water Company,4,2,CA4000704, TNCWS,GW,Private,Very_Small, , , ,watch,,Active,1770665.15039062,5623.20073391862
+9,4,Cal Shasta Club,166,83,CA4000640,TNCWS,GW,Private,Very_Small, , , ,vulnerable,,Active,15806752.34375,20647.6039746348
+10,4,Callender Grove Mutual Water Company,50,36,CA4000805,CWS,GW,Private,Very_Small, , , ,vulnerable,,Active,2781094.4921875,7598.25883540146
+11,4,Canyon Crest Mutual Benefit Water Company,125,54,CA4000230,CWS,SWP,Private,Very_Small, , , ,watch,,Active,3104001.03710938,8425.56199177396
+12,4,Christmas Cove Company,100,40,CA4000642,TNCWS,GW,Private,Very_Small, , , ,pending,,Active,2559213.39746094,6616.85877875826
+13,4,Creekside Commercial Center,75,6,CA4000641,NTNCWS,GW,Private,Very_Small, , , ,pending,,Active,111826.6640625,1974.51829928639
+14,4,Cuyama Lane Water Company,25,2,CA4000598,NTNCWS,GW,Private,Very_Small, , , ,pending,,Active,6847.90625,385.449022202381
+15,4,Deer Valley Mutual Water Company,8,9,CA4000587,TNCWS,GW,Private,Very_Small, , , ,watch,,Active,511762.534179688,2944.48726719739
+16,3,PG&E Diablo Canyon,1200,1,CA4000589,NTNCWS,SW,Private,Small, , , ,watch,,Active,490559269.6875,191871.854186894
+17,4,Double J Mobile Estates,43,24,CA4000646,CWS,GW,Private,Very_Small, , , ,pending,,Inactive,257536.830078125,2065.635686734
+18,4,Edna Ranch Mutual Water Company - East,60,42,CA4000202,CWS,GW,Private,Very_Small, , , ,pending,,Active,56887452.3164062,32059.0893691077
+19,4,Fiero Lane Water Company,200,60,CA4000722,NTNCWS,GW,Private,Very_Small, , , ,vulnerable,,Active,4960079.35449219,16910.7386958236
+20,2,Golden State Water Company Edna,1990,603,CA4010023,CWS,GW,Private,Small, , , ,vulnerable,,Active,88766512.3203125,53194.8083141354
+21,2,Golden State Water Company Los Osos,8914,2701,CA4010017,CWS,GW,Private,Medium, , , ,vulnerable,,Active,67836853.9072266,58433.2061291067
+22,2,Golden State Water Company Nipomo,4937,1496,CA4010018,CWS,GW,Private,Medium, , , ,vulnerable,,Active,67968994.6259766,57323.3344389653
+23,4,H2O Inc,60,22,CA4000741,CWS,GW,Private,Very_Small, , , ,pending,,Active,8424140.02832031,15925.7396015148
+24,4,Halcyon Water System,105,42,CA4000501,CWS,GW,Private,Very Small, , , ,watch,,Active,5623054.38085938,11209.1985567498
+25,4,Hidden Hills Mobilodge,55,35,CA4000632,CWS,GW,Private,Very_Small, , , ,watch,,Active,481292.536132812,3197.34233834421
+26,4,Higuera Apartments,30,24,CA4000563,CWS,GW,Private,Very_Small, , , ,pending,,Active,130938.03125,1628.44848106548
+27,4,Ken Mar Gardens,68,48,CA4000648,CWS,GW,Private,Very_Small, , , ,vulnerable,,Active,219845.697265625,2504.58095573722
+28,4,Laguna Negra Mutual Water Company,80,29,CA4000705,CWS,GW,Private,Very_Small, , , ,watch,,Active,3272621.0859375,7690.13256777534
+29,4,Laguna Vista Boat Club,50,19,CA4000664,TNCWS,GW,Private,Very_Small, , , ,vulnerable,,Active,440141.794921875,5753.6214757476
+30,4,Las Ventanas Ranch Mutual Water Company,100,57,CA4000815,CWS,GW,Private,Very Small, , , ,watch,,Active,5146062.74511719,43425.7934065733
+31,4,Laureate Water Company,350,7,CA4000206,NTNCWS,GW,Private,Very_Small, , , ,vulnerable,,Active,15471798.7138672,25823.4927414498
+32,4,Los Robles Mobile Estates,420,160,CA4000649,CWS,GW,Private,Very_Small, , , ,pending,,Active,1103481.57617188,5078.048166831
+33,3,Mesa Dunes Mobile Home Estates,800,304,CA4000650,CWS,GW,Private,Small, , , ,pending,,Active,2181401.38867188,6576.86524238633
+35,4,Nacimiento Water Company,280,624,CA4010027,CWS,GW,Private,Very_Small, , , ,critical,,Active,47510153.7470703,36699.3441265594
+36,4,Noll Properties Industrial Park,50,6,CA4000734,NTNCWS,GW,Private,Very_Small, , , ,pending,,Active,233533.739257812,2408.17976743655
+37,4,Northshore S&B Inc,50,40,CA4000652,TNCWS,SW,Private,Very_Small, , , ,vulnerable,,Active,1785306.26367188,9927.725007902
+38,4,Nunes Water Company,45,13,CA4000505,CWS,GW,Private,Very_Small, , , ,watch,,Active,284870.4765625,2666.81642272843
+39,4,Piedras Blancas Water Supply,25,2,CA4000706,TNCWS,GW,Private,Very_Small, , , ,pending,,Active,830869.8046875,4770.37772776144
+40,4,Rancho Colina Mobile Home Park,250,126,CA4000653,CWS,GW,Private,Very_Small, , , ,vulnerable,,Active,9145842.76855469,13888.1466275943
+41,4,Rancho Nipomo Water Company,85,44,CA4000771,CWS,GW,Private,Very_Small, , , ,pending,,Active,20207634.2871094,18162.4791421423
+42,4,Rancho Salinas Mutual Benefit Water Company,25,22,CA4000803,CWS,GW,Private,Very_Small, , , ,pending,,Active,4895241.6015625,11999.9462230645
+43,4,Resthaven Mobile Home Park,75,47,CA4000654,CWS,GW,Private,Very_Small, , , ,pending,,Active,853460.809570312,4100.63451469595
+44,4,Rim Rock Water Company,55,24,CA4000750,CWS,GW,Private,Very_Small, , , ,pending,,Active,6373378.609375,10479.8237752303
+45,4,Rinconada Trailer Park,25,15,CA4000655,TNCWS,GW,Private,Very_Small, , , ,vulnerable,,Active,325290.719726562,3122.73331259422
+46,3,Golden State Water Company Cypress Ridge,1989,917,CA4010040,CWS,GW,Private,Small, , , ,vulnerable,,Active,60222497.8349609,71716.444294956
+47,4,Santa Ysabel Ranch Mutual Water Company,25,146,CA4000802,CWS,GW,Private,Very_Small, , , ,pending,,Active,26338553.8007812,24371.7349835309
+48,3,San Miguelito Mutual Water Company,1450,640,CA4010003,CWS,SWP,Private,Small, , , ,vulnerable,,Active,45244364.0546875,37788.8305867657
+49,4,South Shore Village Club,80,40,CA4000657,TNCWS,GW,Private,Very_Small, , , ,pending,,Active,17530094.0849609,21160.0588477026
+50,4,S&T Mutual Water Company,220,138,CA4000523,CWS,GW,Private,Very_Small, , , ,watch,,Active,3814288.75292969,9304.14198352703
+51,4,Talley Farm Labor Housing,45,13,CA4000678,CWS,GW,Private,Very_Small, , , ,watch,,Active,9671024.65722656,19402.4364179828
+52,4,Terra De Oro Water Company,35,17,CA4000749,CWS,GW,Private,Very_Small, , , ,pending,,Active,1154490.765625,4646.94338617762
+53,4,Tri Counties Club,87,86,CA4000659,NTNCWS,GW,Private,Very_Small, , , ,watch,,Active,2125424.6796875,5836.4601920156
+54,4,Varian Ranch Mutual Water Company,120,49,CA4000765,CWS,GW,Private,Very_Small, , , ,watch,,Active,135658045.69043,69728.4738765849
+55,4,Vista De Las Flores Water,53,17,CA4000504,CWS,GW,Private,Very_Small, , , ,pending,,Active,57563.8544921875,961.024359213485
+56,4,Walnut Hills Mutual Water Company,300,21,CA4000670,CWS,GW,Private,Very_Small, , , ,critical,,Active,3753065.78613281,13719.0815866912
+57,2,Woodlands Mutual Water Company,4130,248,CA4010081,CWS,GW,Private,Medium, , , ,vulnerable,,Active,41432163.5224609,30613.7919915542
+58,4,Woodland Park Mutual Water Company,500,151,CA4000506,CWS,GW,Private,Very_Small, , , ,vulnerable,,Active,18056670.3583984,20229.3266252488
+59,4,Avila Beach CSD,300,279,CA4000222,CWS,SW,Local_Govt,Very Small, , , ,vulnerable,,Active,7820631.32226562,19157.6402239283
+60,3,Atascadero State Hospital,2500,875,CA4010832,CWS,GW,State_Govt,Small, , , ,vulnerable,,Active,26809024.0439453,30163.5303108438
+61,1,Arroyo Grande Water Department,16669,6330,CA4010001,CWS,SW,Local_Govt,Large, , , ,vulnerable,,Active,163394766.137695,85408.5086152781
+62,3,Cal Trans Shandon Rest Stop,800,13,CA4010900,TNCWS,GW,State_Govt,Small, , , ,vulnerable,,Active,462726.928710938,2862.26920270491
+63,4,Cayucos - Morro Cemetery,3,1, ,CWS,SW,Local_Govt,Very_Small, , , ,pending,,Active,311494.040039062,2472.42683286798
+64,2,Cambria CSD,6500,3996,CA4010014,CWS,GW,Local_Govt,Medium, , , ,pending,,Active,134251653.563477,91294.33439665
+65,1,California Mens Colony,15000,5357,CA4010830,CWS,SW,State_Govt,Large, , , ,vulnerable,,Active,37537382.0283203,35542.4382082588
+66,3,Cayucos CSA 10,3150,738,CA4010025,CWS,SW,Local_Govt,Small, , , ,vulnerable,,Active,35027731.7021484,50641.7717591099
+67,3,Avila Beach CSA 12,200,16, ,CWS,SW,Local_Govt,Small, , , ,vulnerable,,Active,37502375.3339844,57478.5349672231
+68,3,Port SL Harbor,20,2,CA4000800,CWS,SW,Local_Govt,Small,Pre-Dates LAFCO, ,076-172-018,watch,,Active,422540.439453125,6141.6702326732
+69,3,Shandon CSA 16,1254,350,CA4010028,CWS,GW,Local_Govt,Small, , , ,critical,,Active,12038906.6435547,17509.6988661845
+70,3,Santa Margarita CSA 23,1200,520,CA4010024,CWS,GW,Local_Govt,Small, , , ,critical,,Active,13367551.8466797,16112.0883960134
+71,4,Garden Farms Community Water District,240,107,CA4000507,CWS,GW,Local_Govt,Very_Small, , , ,pending,,Active,6758371.25878906,12577.2912538083
+72,4,Garden Farms Community Water District,2,1,CA4000507,CWS,GW,Local_Govt,Very_Small,OUA Oslen, ,070-121-002,pending,,Active,551135.7734375,3218.06836995571
+73,4,Garden Farms Community Water District,2,1,CA4000507,CWS,GW,Local_Govt,Very_Small,OUA Larsen,1-O-01,070-121-023,pending,,Active,48003.6455078125,992.407780753528
+74,4,Garden Farms Community Water District,0,1,CA4000507,CWS,GW,Local_Govt,Very_Small,OUA SPRR Office, , ,pending,,Active,333.62109375,73.3666724277707
+75,4,Garden Farms Community Water District,2,1,CA4000507,CWS,GW,Local_Govt,Very_Small,OUA Perry, ,070-121-003,pending,,Active,93883.9716796875,1267.62411452558
+76,4,Garden Farms Community Water District,2,1,CA4000507,CWS,GW,Local_Govt,Very_Small, OUA Miller, ,070-121-028,pending,,Active,356804.0546875,2766.73024264766
+77,4,Garden Farms Community Water District,2,1,CA4000507,CWS,GW,Local_Govt,Very_Small,OUA Eggen, ,070-121-031,pending,,Active,402557.565429688,2598.642175272
+78,2,Hearst Monument State Park,4608,5,CA4010300,NTNCWS,GW,State_Govt,Medium, , , ,pending,,Active,5788820.79394531,10230.3760738401
+79,3,Heritage Ranch CSD,3120,1704,CA4010012,CWS,GW,Local_Govt,Small, , , ,vulnerable,,Active,239171976.101562,76188.1255319648
+80,2,Los Osos CSD,7313,2739,CA4010016,CWS,GW,Local_Govt,Medium, , , ,vulnerable,,Active,35628944.4931641,31762.5778456844
+81,3,Montana De Oro State Park,990,6,CA4010305,TNCWS,GW,State_Govt,Small, , , ,pending,,Active,261066621.268555,76503.8126874906
+82,1,Morro Bay Water Department,10270,5473,CA4010011,CWS,SWP,Local_Govt,Large, , , ,vulnerable,,Active,170195623.286133,100858.813847165
+83,1,Nipomo CSD,12626,3995,CA4010026,CWS,GW,Local_Govt,Large, , , ,vulnerable,,Active,195375931.833008,176273.721255514
+84,2,Oceano CSD,7600,2094,CA4010005,CWS,SWP,Local_Govt,Medium, , , ,critical,,Active,50702633.2197266,43756.5442533592
+85,2,Oceano CSD,8,4,CA4010005,CWS,SWP,Local_Govt,Medium,OUA Christie,2-O-05,047-127-058,critical,,Active,446048.280273438,2945.2335977255
+86,2,Oceano CSD,125,54,CA4010005,CWS,SWP,Local_Govt,Medium,OUA Canyon Crest,2-O-02,047-127-036,critical,,Active,3078390.70117188,8406.01702861723
+87,1,Paso Robles Water Department,29000,9965,CA4010007,CWS,GW,Local_Govt,Large, , , ,vulnerable,,Active,551115694.560547,208059.691485215
+88,3,El Paso De Robles Youth Correction Facility,1000,477,CA4010831,CWS,GW,State_Govt,Small, , , ,vulnerable,,Active,6805420.42285156,10438.8229906082
+89,2,Pismo Beach Water Department,8800,4775,CA4010008,CWS,SWP,Local_Govt,Medium, , , ,vulnerable,,Active,97525974.984375,102522.426697156
+90,1,San Luis Obispo Water Department,43509,14400,CA4010009,CWS,SW,Local_Govt,Large, , , ,vulnerable,,Active,368779856.180664,174755.455611077
+91,3,San Miguel CSD,1425,668,CA4010010,CWS,GW,Local_Govt,Small, , , ,vulnerable,,Active,83152629.2167969,55717.2589234804
+92,1,Santa Maria Valley Water Conservation District,110000, , ,CWS,SW,Local_Govt,Large, , , ,pending,,Active,2330675374.5752,334426.116627566
+93,4,San Simeon CSD,499,180,CA4000568,CWS,GW,Local_Govt,Very Small, , , ,critical,,Active,4325230.86816406,10023.4126649497
+94,2,Templeton CSD,6453,2514,CA4010019,CWS,GW,Local_Govt,Medium, , , ,vulnerable,,Active,141249769.082031,97860.4218127757
+95,2,Templeton CSD,10,6,CA4010019,CWS,GW,Local_Govt,Medium,Adams, ,040-081-019,vulnerable,,Active,272024.04296875,2289.27517770135
+96,2,Templeton CSD,28,14,CA4010019,CWS,GW,Local_Govt,Medium,Hamm, ,040-137-004,vulnerable,,Active,629180.349609375,3509.91070257919
+97,2,Templeton CSD,2,1,CA4010019,CWS,GW,Local_Govt,Medium,Madsen, ,040-081-033,vulnerable,,Active,429920.766601562,2808.19754884599
+98,2,Templeton CSD,12,7,CA4010019,CWS,GW,Local_Govt,Medium,Campbells, ,040-081-037,vulnerable,,Active,691292.545898438,3369.87237718038
+99,2,Templeton CSD,2,1,CA4010019,CWS,GW,Local_Govt,Medium,Unknown, ,040-081-032,vulnerable,,Active,355905.708007812,2778.54324648961
+100,2,Templeton CSD,15,1,CA4010019,CWS,GW,Local_Govt,Medium,Farm Supply, ,040-143-050,vulnerable,,Active,234001.65234375,1944.59728694082
+101,2,Templeton CSD,2,1,CA4010019,CWS,GW,Local_Govt,Medium,Lilly, ,040-143-001,vulnerable,,Active,108994.578125,1388.64674207017
+102,2,Templeton CSD,5,1,CA4010019,CWS,GW,Local_Govt,Medium,CDF, ,040-143-003,vulnerable,,Active,100956.05859375,1296.29587356791
+103,2,Templeton CSD,28,10,CA4010019,CWS,GW,Local_Govt,Medium,Claassen, ,040-081-040,vulnerable,,Active,4889852.12988281,11441.449798852
+104,2,Templeton CSD,2,1,CA4010019,CWS,GW,Local_Govt,Medium,Lewis,1-O-95,040-143-004,vulnerable,,Active,165579.427734375,2085.97187574476
+105,2,Templeton CSD,22,13,CA4010019,CWS,GW,Local_Govt,Medium,Hamm No.2, ,040-081-016,vulnerable,,Active,548169.432617188,2981.51679336867
+106,1,West Kern County Water District,18000,7600,CA1510022,CWS,SWP,Local_Govt,Large, , , ,pending,,Active,8654869067.80859,853623.613989788
+107,4,San Simeon Creek Ranch,42,2,CA4000703,TNCWS,GW,Private,Very Small, , , ,watch,,Active,21257276.6142578,23955.7684895866
+108,4,Weso aka T&A Properties Water Company,25,7,CA4000224,CWS,GW,Private,Very Small, , , ,pending,,Active,686347.991210938,4777.69586200889
+109,4,Almira Water Association,40,18,CA4000631,CWS,GW,Private,Very Small, , , ,watch,,Active,9160794.53613281,19517.6830246766
+110,4,Avila Valley Mutual Water Company,65,26,CA4000716,CWS,GW,Private,Very Small, , , ,pending,,Active,11374228.2705078,15960.5194094837
+111,3,Tiger Water Supply,1600,1,CA4000205,NTNCWS,GW,Local_Govt,Small, , ,002-352-002,pending,,Active,2758036.60546875,7346.09760662204
+112,3,PG&E,1200,1,CA4000589,NTNCWS,SW,Private,Small, , ,076-011-018,pending,,Active,23749661.4785156,21277.6477195263
+113,3,Lake Nacimiento,1000,1,CA4000590,NTNCWS,GW,Private,Small, , ,080-081-014,pending,,Active,23579358.5917969,21023.0557555878
+114,3,Madonna Inn Water Company,650,1,CA4000780,NTNCWS,GW,Private,Small, , ,004-511-021,pending,,Active,2408208.67382812,10206.5145344123
+115,4,Hearst Memorial State Beach,500,1,CA4010301,TNCWS,GW,State_Govt,Very Small, , ,011-242-019,critical,,Active,19257093.6738281,24499.1609410716
+116,4,Ernie Ball Inc,300,1,CA4000751,NTNCWS,GW,Private,Very Small, , ,053-258-002,pending,,Active,322687.995117188,2609.31661900039
+117,4,Branch Elementary School,300,1,CA4000675,NTNCWS,GW,Local_Govt,Very Small, , ,047-271-011,watch,,Active,262979.006835938,2082.00217392765
+118,4,R. Howard Strasbaugh Inc,200,1,CA4000777,NTNCWS,GW,Private,Very Small, , ,076-063-025,watch,,Active,675379.118164062,3453.75816187237
+119,4,Sycamore Mineral Springs Resort,200,1,CA4000689,NTNCWS,GW,Private,Very Small, , ,076-231-053,watch,,Active,5149331.6953125,10905.1349561028
+120,4,Conoco Phillips Company,140,1,CA4000255,NTNCWS,GW,Private,Very Small, , ,092-401-011,pending,,Active,24063980.6201172,22625.5824678956
+121,4,Santa Maria Speedway,100,1,CA4000783,TNCWS,GW,Private,Very Small, , ,090-301-040,watch,,Active,915634.00390625,3775.71161257682
+122,4,Pleasant Valley Elementary,100,1,CA4000774,NTNCWS,GW,Local_Govt,Very Small, , ,019-071-055,vulnerable,,Active,424591.845703125,3128.22904914146
+123,4,Santa Margarita Recreation Area,100,1,CA4000714,TNCWS,GW,Local_Govt,Very Small, , ,070-341-019,pending,,Active,25345444.3408203,25849.3972102732
+124,4,Lopez Recreation Area,100,1,CA4000701,TNCWS,GW,Local_Govt,Very Small, , ,048-051-019,pending,,Active,68466098.5058594,46258.6676620424
+125,4,Creston Elementary School,100,1,CA4000693,NTNCWS,GW,Local_Govt,Very Small, , ,043-082-004,pending,,Active,209076.274414062,2064.05595456858
+126,4,Ragged Point Inn,100,1,CA4000684,NTNCWS,SW,Private,Very Small, , ,011-011-010,pending,,Active,930505.649414062,4245.63892126955
+127,4,Morro Bay Mutual Water Company,100,1,CA4000665,NTNCWS,GW,Private,Very Small, , , ,pending,,Active,5213215.65527344,10839.5018091137
+128,4,Camp Roberts,100,1,CA4000620,NTNCWS,GW,Fed_Govt,Very Small, , ,027-401-020,pending,,Active,27535448.1582031,20989.8349191298
+129,4,Clearwater Nursery,100,1,CA4000207,NTNCWS,GW,Private,Very Small, , ,091-281-083,pending,,Active,3382892.86816406,7758.59414302764
+130,4,San Luis Business Park,100,1,CA4000711,NTNCWS,GW,Private,Very Small, , ,053-264-006,watch,,Active,84011.546875,1241.96137530204
+131,4,Whitson Industrial Park,75,1,CA4000728,NTCWS,GW,Private,Very Small, , ,053-258-029,watch,,Active,305009.528320312,2522.46407920928
+132,4,Ball Tagawa West Growers,70,1,CA4000209,NTNCWS,GW,Private,Very Small, , ,091-101-011,watch,,Active,3081119.91210938,8301.56275464312
+133,4,Carrisa Plains School,65,1,CA4000732,NTNCWS,GW,Local_Govt,Very Small, , ,072-101-011,vulnerable,,Active,444658.499023438,2987.6442888938
+134,4,Santa Lucia School,52,1,CA4000767,NTNCWS,GW,Local_Govt,Very Small, , ,039-301-006,vulnerable,,Active,214099.446289062,2197.4604036797
+135,4,Hunter Ranch Golf Course,50,1,CA4000788,TNCWS,GW,Private,Very Small, , ,025-701-004,watch,,Active,9298228.06347656,12529.855407253
+136,4,Santa Margarita KOA,50,1,CA4000656,TNCWS,GW,Private,Very Small, , ,070-391-028,pending,,Active,2548665.35644531,6892.79835853949
+137,4,Skyline Flower Growers & Shippers,50,1,CA4000223,NTNCWS,GW,Private,Very Small, , ,092-371-015,critical,,Active,1344274.24121094,5468.68040362293
+138,4,Greenhart Farms,50,1,CA4000211,NTNCWS,GW,Private,Very Small, , ,075-351-033,watch,,Active,2477820.80175781,7549.20733937229
+139,4,Horizon Lane Water Supply,45,1,CA4000770,NTNCWS,GW,Private,Very Small, , ,053-258-017,pending,,Active,262388.797851562,2632.42479870845
+140,4,Tank Farm Business Park,45,1,CA4000216,NTNCWS,GW,Private,Very Small, , ,053-251-067,pending,,Active,187360.533203125,1847.27034890641
+141,4,Paragon Triangle Water Supply,40,1,CA4000604,NTCWS,GW,Private,Very Small, , ,053-258-008,pending,,Active,79079.984375,1746.66697537711
+142,4,Pacific Dunes Ranch,40,1,CA4000226,NTNCWS,GW,Private,Very Small, , ,061-261-012,watch,,Active,1119096.203125,4372.79925826418
+143,4,First Baptist Church,40,1,CA4000201,NTNCWS,GW,Private,Very Small, , ,074-353-022,watch,,Inactive,94775.6259765625,1342.40724294317
+144,4,SLO Partners,40,1,CA4000753,NTNCWS,GW,Private,Very Small, , ,076-371-014,pending,,Active,188970.525390625,1791.58751188165
+145,4,Elks Lodge #322,40,1,CA4000671,NTNCWS,GW,Private,Very Small, , ,053-011-026,pending,,Active,411748.112304688,2832.41590524806
+146,4,Arroyo Grande Mushroom Farm,35,1,CA4000784,NTNCWS,GW,Private,Very Small, , ,047-091-009,watch,,Active,3533962.64550781,10342.5694085488
+147,4,Waste Connections Water Sytem,35 NT,1,CA4000766,NTNCWS,GW,Corral De Piedra Land Company,Very Small, , ,076-371-023,pending,,Active,542622.321289062,3771.49395348802
+148,4,United Parcel Service,35,1,CA4000743,NTNCWS,GW,Private,Very Small, , ,053-231-025,pending,,Active,149623.728515625,1681.97723679177
+149,4,Tank Farm Industrial Plaza,35,1,CA4000726,NTNCWS,GW,Private,Very Small, , ,053-422-004,pending,,Active,224060.377929688,2283.08529404141
+150,4,Black Mountain RV Resort,35,1,CA4000643,TNCWS,GW,Private,Very Small, , ,070-172-033,pending,,Active,2827090.55175781,8185.46298589074
+151,4,Guadalupe Cooling Company,35,1,CA4000555,NTNCWS,GW,Private,Very Small, , ,092-021-046,pending,,Active,876364.163085938,4926.14980294125
+152,4,Creston Country Store,25,1,CA4000210,TNCWS,GW,Private,Very_Small, , ,043-073-004,vulnerable,,Active,11925.8359375,466.657754014829
+153,4,Toyota San Luis OBispo,35,1,CA4000213,NTNCWS,GW,Private,Very_Small, , ,053-151-021,pending,,Active,102379.662109375,1356.26216041964
+154,4,Speedling Inc,35,1,CA4000208,NTNCWS,GW,Private,Very_Small, , ,090-041-007,vulnerable,,Active,1541140.56152344,5220.99950139774
+155,4,Holdgrafter & Associates,30,1,CA4000730,NTCWS,GW,Private,Very_Small, , ,053-258-013,watch,,Active,304895.708984375,2554.24580867638
+156,4,Meridian Vineyard,30,1,CA4000781,NTNCWS,GW,Private,Very_Small, , ,015-041-001,watch,,Active,6857133.85351562,10475.8464536523
+157,4,Parsons Water Supply,30,1,CA4000778,NTNCWS,GW,Private,Very_Small, , ,053-232-026,pending,,Active,227212.657226562,2028.38919848402
+158,4,Cerro Alta Campground,30,1,CA4000757,TNCWS,GW,Fed_Govt,Very_Small, , ,073-021-008,watch,,Active,48873827.7158203,29774.8659919654
+159,4,SLO County Farm Bureau,30,1,CA4000736,NTNCWS,GW,Private,Very_Small, , ,053-422-006,pending,,Active,226223.876953125,2353.60816673552
+160,4,Longbranch Saloon,30,1,CA4000707,TNCWS,GW,Private,Very_Small, , ,043-074-003,pending,,Active,17761.27734375,538.042756030398
+161,4,Jack Ranch Cafe,30,1,CA4000673,TNCWS,GW,Private,Very_Small, , ,017-101-004,pending,,Active,62990.1689453125,1137.44667159353
+162,4,Crossroads Community Church,30,1,CA4000217,TNCWS,GW,Private,Very_Small, , ,091-011-021,pending,,Active,95303.771484375,1482.90936895845
+163,4,Williams Water Company,30,1,CA4000215,NTNCWS,GW,Private,Very_Small, , ,076-062-012,pending,,Active,86590.73046875,1159.54205162279
+164,4,Arciero Winery,28,1,CA4000300,NTNCWS,GW,Private,Very_Small, , ,015-311-018,pending,,Active,1056802.36621094,4867.75762685315
+165,4,J M Sims Water Supply,27,1,CA4000768,NTNCWS,GW,Private,Very_Small, , ,076-371-022,watch,3,Active,140003.666015625,1636.75456962619
+166,4,Paso Robles Truck Plaza (San Paso),25,1,CA4000699,TNCWS,GW,Private,Very_Small, , ,026-103-021,pending,,Active,456129.247070312,2869.82118754561
+167,4,7X Youth Ranch,25,1,CA4000786,TNCWS,GW,Private,Very_Small, , ,014-091-017,pending,,Active,3625362.8515625,7895.23404550537
+168,4,Copeland S Investments,25,1,CA4000752,NTNCWS,GW,Private,Very_Small, , ,053-258-024,watch,,Active,316793.475585938,2608.97919384243
+169,4,Biddle Regional County Park,25,1,CA4000733,TNCWS,GW,Local_Govt,Very_Small, , ,047-081-038,pending,,Active,1920134.53320312,6339.86750979268
+170,4,141 Suburban Road Water Supply,25,1,CA4000725,NTNCWS,GW,Private,Very_Small, , ,053-258-003,watch,,Active,85765.2158203125,1204.52615505099
+171,4,200 Suburban Road Water Supply,25,1,CA4000717,NTNCWS,GW,Private,Very_Small, , ,053-258-011,watch,,Active,52456.90625,970.688365214721
+172,4,Loading Chute,25,1,CA4000708,TNCWS,GW,Private,Very_Small, , ,043-072-001,watch,,Active,47287.32421875,924.227338420875
+173,4,Sunset Drive-In Snack Bar,25,1,CA4000702,TNCWS,GW,Private,Very_Small, , ,053-041-025,pending,,Active,1145413.15820312,4612.08556017938
+174,4,Emmanuel Heights,25,1,CA4000700,TNCWS,GW,Private,Very_Small, , ,043-301-034,pending,,Active,25238970.9101562,21343.7761133094
+175,4,Pozo Saloon,25,1,CA4000698,TNCWS,GW,Private,Very_Small, , ,071-391-024,pending,,Active,182513.651367188,2877.52843008098
+176,4,Harmony Water Works,25,1,CA4000694,TNCWS,GW,Private,Very_Small, , ,013-201-005,pending,,Active,103999.568359375,1443.99933785817
+177,4,Pete Johnston GM,25,1,CA4000692,NTNCWS,GW,Private,Very_Small, , ,009-851-002,pending,,Active,377039.796875,2777.83802686778
+178,4,Laetitia Vineyard & Winery Inc,25,1,CA4000221,NTNCWS,GW,Private,Very_Small, , ,047-301-002,pending,,Active,22958550.0263672,20746.4686771768
+179,4,Links At Lista Del Hombre,25,1,CA4000219,TNCWS,GW,Private,Very_Small, , ,025-442-023,watch,,Active,8184073.04003906,18652.8773085451
+180,4,Paso Robles RV Ranch,105,1,CA4000790,TNCWS,GW,Private,Very_Small, , ,026-111-001,vulnerable,,Active,308390.20703125,2201.56901777451
+181,4,Spanish Lakes Mututal Water Company,150,50,CA4000789,CWS,GW,Private,Very_Small, , , ,vulnerable,,Active,11379335.5361328,15797.0006760076
+182,4,Mustang Springs Mutual Water Company,30,15,CA4000775,CWS,GW,Private,Very_Small, , , ,pending,,Active,951710.2578125,4379.54470626187
+183,4,Country Hills Estates,60,28,CA4000637,CWS,GW,Private,Very_Small, , , ,critical,,Active,5244737.33691406,17922.5773069028
+184,4,Green River Mutual Water Company,300,100,CA4000554,CWS,GW,Private,Very_Small, , , ,watch,,Active,20244330.3574219,21456.3825488429
+185,1,Grover Beach Water Department,13248,5123,CA4010004,CWS,SW,Local_Govt,Large, , , ,vulnerable,,Active,64395415.9326172,40095.4265859415
+186,4,Sweet Springs Mobile Home Park,30,16,CA4000658,NP,GW,Private,Very Small, , ,047-200-019,watch,,Active,1642735.51269531,5923.14494145353
+187,4,Chevron - Tank Farm,35,1,CA4000807,NTNC,GW,Private,Very Small, , , ,pending,,Active,14688560,18243.4441822465
+188,4,Congregation Beth David,25,1,CA4000809,NTNC,GW,Private,Very Small, , ,067-091-011,watch,,Active,4007226.46289062,8348.34147070131
+189,4,East Airport Fiero Lane Water Company,200,60,CA4000817,NTNCWS,GW,Private,Very Small, , , ,vulnerable,,Active,4960079.35449219,16910.7386958236
+190,1,Cayucos Beach Mutual Water Company,11302,780,CA4010006,CWS,SW,Private,Large, , , ,watch,,Active,5958771.28710938,18562.2671424305
+191,1,Morro Rock Mutual Water Company,10200,628,CA4010015,CWS,SW,Private,Large, , , ,vulnerable,,Active,4664200.54003906,13122.4598189672
+192,4,Blue Sky Water Association,39,13,CA4000639,NTNCWS,GW,Private,Very Small, , ,047-242-003,pending,,Active,2910310.92578125,7735.113226887
+193,4,MAXWELLTON MUTUAL WATER,27,9,CA4000629,NTNCWS,GW,Private,Very Small, , ,044-131-015,pending,,Active,394329.288085938,2930.9175446842
+194,4,NEWSOM SPRINGS MUTUAL WATER COMPANY,27,11,CA4000772,NTNCWS,GW,Private,Very Small, , ,047-101-009,pending,,Active,6484965.82519531,12370.3329056402
+195,4,SAN LUIS WATER & POWER,36,12,CA4000635,NTNCWS,GW,Private,Very Small, , ,044-491-015,vulnerable,,Active,3381828.25292969,8583.80189644088
+196,4,VACHELL WATER SYSTEM,150,1,CA4000806,NTNCWS,GW,Private,Very Small, , ,053-259-003,vulnerable,,Active,392432.041992188,2507.42760750964
+197,4,WALLACE WATER SYSTEMS,35,1,CA4000814,NTNCWS,GW,Private,Very Small, , ,053-258-023,pending,,Active,167028.672851562,2346.11950997802
+198,4,SAN LUIS SOURDOUGH - INACTIVE,60,1,CA4000773,NTNCWS,GW,Private,Very Small, , ,053-251-048,pending,,Active,151731.909179688,1646.2903489699
+199,4,MESA MUTUAL WATER COMPANY,39,12,CA4000608,NTCWS,GW,Private,Very Small, , ,091-284-023,pending,,Active,10082.27734375,419.463779149265
+200,4,MONTE SERENO MUTUAL BENEFIT WATER,60,31,CA4000808,CWS,GW,Private,Very Small, , ,047-081-056,pending,,Active,5663210.17675781,11560.3563055043
+201,4,Corralitos Mutual Water Company,10,3, ,NTNCWS,GW,Private,Very Small, , ,047-191-024,pending,,Active,621085.197265625,3383.41456985111
+202,4,NIPOMO MESA MUTUAL WATER COMPANY INACTIVE,3,1,CA4000609,NTNCWS,GW,Private,Very Small, , ,091-173-016,pending,,Active,1641343.23535156,5192.13913366832
+203,,Adelaide Estates,15,5,CA4000740,SS,GW,Private,Vert_Small,,,,vulnerable,,Active,2024988.77636719,6960.87136006545
+204,,Buttonwood Industrial Park- Inactive,20,2,,NTNCWS,GW,Private,Very Small,,,,pending,,Active,657127.231445312,3333.20042038135
+603,,Callender Water Association,18,7,,SS,GW,Private,Very Small,,,,critical,,Active,121807.403320312,1437.38962546236
+604,,Circle II,22,10,,SS,GW,Private,Very Small,,,,pending,,Active,1137954.4140625,5407.05120417205
+605,,Daou Vineyards,25,1,,TNCWS,GW,Private,Very Small,,,,pending,,Active,4595173.09277344,10913.4975000949
+606,,Edna Valley Vineyard,25,1,,NTNCWS,GW,Private,Very Small,,,,vulnerable,,Active,2726601.47558594,7096.32867725047
+607,,Huerhuero Ranch,25,42,CA4000827,CWS,GW,Private,Very Small,,,,vulnerable,,Pending,33616160.2832031,24086.526008588
+608,,The Inn at Opolo Kitchen,25,1,,TNCWS,GW,Private,Very Small,,,,watch,,Active,4134550.30566406,10876.6897749536
+609,,Irish Hills,10,26,,CWS,GW,Private,Very Small,,,,watch,,Active,10060299.546875,14231.4321996837
+610,,Jespersen Ranch,20,1,,SS,GW,Private,Very Small,,,,pending,,Active,5345096.97753906,10669.4497315781
+611,,Kanawyer_Raymond Oak Glen,6,5,,SS,GW,Private,Very Small,,,,watch,,Active,421746.552734375,2650.7888679613
+612,,Kukkula Inc.,50,1,,TNCWS,GW,Private,Very Small,,,,watch,,Active,3556029.14941406,7772.22358320367
+614,,Edna Ranch West,25,12,,SS,GW,Private,Very Small,,,,pending,,Active,1575664.44042969,5431.56665048728
+615,,Last Stage West,25,1,,TNCWS,GW,Private,Very Small,,,,pending,,Active,60771.41796875,1007.90118478068
+616,,Mutual Water Co.,10,5,,SS,GW,Private,Very Small,,,,pending,,Active,1653393.87402344,5143.43321417248
+617,,Niner Wine Estates,25,4,,TNCWS,GW,Private,Very Small,,,,vulnerable,,Active,8025995.65917969,11763.6751759199
+618,,North River Road,10,5,,SS,GW,Private,Very Small,,,,watch,,Active,2258133.1875,8629.64609962
+619,,Poly Ranch,18,7,,SS,GW,Private,Very Small,,,,critical,,Active,211340.819335938,2510.61093615054
+620,,Quiet Oaks,10,5,,SS,GW,Private,Very Small,,,,watch,,Active,1646943.62597656,6048.94807945923
+621,,Rancho Caballo,25,13,,SS,GW,Private,Very Small,,,,pending,,Active,3915806.375,13663.3646722152
+622,,Rancho Oaks,19,10,,SS,GW,Private,Very Small,,,,watch,,Active,201830.15234375,2886.76841195354
+623,,Rhodes Rancho,20,7,,SS,GW,Private,Very Small,,,,pending,,Active,156208.16796875,1742.85382260383
+624,,SATCOM,100,1,,NTNCWS,GW,Private,Very Small,,,,critical,,Active,1174534.37304688,4645.15715153344
+625,,La Colonia,30,60,,SS,GW,Private,Very Small,,,,pending,,Active,44277.259765625,1079.21209077256
+626,,True Water Supply,24,7,,SS,GW,Private,Very Small,,,,watch,,Active,828004.752929688,3880.44562223888
+627,,La Mesa Water Co.,20,10,,SS,GW,Private,Very Small,,,,watch,,Active,461087.24609375,3198.44073950599
+1003,,Heritage Lane Water Assocation,20,10,,SS,GW,Private,Very Small,,,,watch,,Active,628357.147460938,3678.14756643992
+1806,4,Mutual Water Association,30,7,CA4000623,NTNCWS,GW,Private,Very Small,,,,pending,1,Active,2301879.42675781,7637.70120097978
